@@ -1,9 +1,0 @@
-101 John Doe Manager Technology 5000
-102 Jane Smith Developer Technology 4000
-103 Michael Johnson Analyst Finance 4500
-104 Emily Brown Manager HR 5500
-105 David Lee Developer Technology 4200
-201 Sarah Adams Analyst Marketing 4800
-202 Robert Davis Developer Technology 4100
-203 Lisa Miller Manager Operations 6000
-204 James Wilson Analyst Finance 4700
