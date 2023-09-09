@@ -1,1 +1,1 @@
-This is a Repository for SS Lab
+This is a branch for Hands on List 1 of SS Lab
